@@ -1,0 +1,16 @@
+#navigation {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#content {
+    padding: 10px;
+    margin: auto;
+}
+
+.post {
+    border: 1px solid black;
+    margin: 0 0 10px 0;
+    padding: 10px;
+    text-align: center;
+}

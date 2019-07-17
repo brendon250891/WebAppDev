@@ -1,0 +1,10 @@
+#post {
+    border: 1px solid black;
+    margin: 25px;
+    padding: 10px;
+}
+
+#content {
+    width: 800px;
+    margin: auto;
+}

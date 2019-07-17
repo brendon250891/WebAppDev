@@ -1,0 +1,51 @@
+.content {
+    width: 800px;
+    margin: auto;
+}
+
+.post {
+    border: 1px solid black;
+    margin: 20px 20px 0 20px;
+    padding: 20px;
+    border-radius: 15px 15px 0 15px;
+}
+
+.comment {
+    border: 1px solid black;
+    border-top: none;
+    width: 550px;
+    margin: 0 0 0 188px;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.avatar {
+    flex-grow: 1
+}
+
+.message-box {
+    flex-grow: 8;
+}
+
+.message {
+    flex-grow: 2;
+}
+
+.gap {
+    flex-grow: 1
+}
+
+.date {
+    font-style: italic;
+    font-size: 14px;
+}
