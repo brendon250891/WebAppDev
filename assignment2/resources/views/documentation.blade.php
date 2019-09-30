@@ -6,13 +6,14 @@
         <hr>
         <h4>Peer Review Reflection</h4>
         <hr>
-        <p>I didn’t really participate in the peer reviews for the labs, having done two earlier in the semester and one 
-        for the first assignment, however from the peer reviews that I did participate in I feel as though as a reviewer 
-        I find It difficult to know.
-        
-        
-        Maybe I missed the point to the as the labs are almost entirely just following along with the lecture videos 
-        and therefore everyones will be mostly the same.</p>
+        <p>I didn’t really participate in the peer reviews for the labs, having done two earlier in the semester and one for the first assignment, however from the peer reviews that I did participate in and from what I observed from others doing peer reviews was:</p>
+
+<p>Reviewer – I feel as though I learnt how to give better feedback to the student / person whose work I was reviewing both through doing the peer review and overhearing or observing what other students were doing / saying.</p>
+
+<p>Reviewee – I learnt to take feedback in a positive way and take the time to do the little things before it gets too hard to go back and change.</p>
+
+<p>Initially, I didn’t see the point in doing the peer reviews, which is why I didn’t really participate, as the labs were just following along with the lecture videos (more or less) and therefore everyone would have essentially the same code and I would think that the person that made them was doing things correctly. Since then I have learned that doing code reviews is important for both you and the reviewee in identifying areas that you need to improve on and on the areas that you are doing well and that they are an important part of a developers toolkit and are done very regularly in industry.</p>
+</p>
         <h4>Completed Requirements</h4>
         <hr>
         <ul>
